@@ -41,3 +41,4 @@
 // 2024-06-21T12:05:00 feat: add market analytics
 // 2024-06-21T17:48:00 chore: update config
 // 2024-06-21T15:11:00 feat: position sizing
+// 2024-06-21T12:41:00 fix: settlement race condition
