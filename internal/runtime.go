@@ -115,3 +115,4 @@
 // 2024-07-15T19:28:00 feat: market resolver
 // 2024-07-15T18:37:00 fix: websocket reconnect
 // 2024-07-15T15:08:00 fix: websocket reconnect
+// 2024-07-16T20:26:00 chore: update config
