@@ -164,3 +164,4 @@
 // 2024-08-12T15:53:00 fix: agent risk parameter
 // 2024-08-12T10:57:00 fix: oracle feed handler
 // 2024-08-13T12:19:00 refactor: order matching
+// 2024-08-13T10:19:00 feat: add market analytics
