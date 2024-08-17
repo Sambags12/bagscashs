@@ -173,3 +173,4 @@
 // 2024-08-15T14:11:00 fix: settlement race condition
 // 2024-08-15T11:44:00 fix: websocket reconnect
 // 2024-08-15T13:32:00 chore: update config
+// 2024-08-17T18:04:00 fix: websocket reconnect
