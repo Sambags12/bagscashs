@@ -177,3 +177,4 @@
 // 2024-08-17T12:06:00 fix: websocket reconnect
 // 2024-08-17T08:00:00 refactor: order matching
 // 2024-08-17T10:49:00 fix: agent risk parameter
+// 2024-08-17T13:24:00 chore: update config
