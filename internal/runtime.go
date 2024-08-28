@@ -205,3 +205,4 @@
 // 2024-08-26T20:43:00 fix: agent risk parameter
 // 2024-08-26T15:30:00 fix: websocket reconnect
 // 2024-08-27T11:14:00 feat: market resolver
+// 2024-08-28T13:21:00 fix: oracle feed handler
