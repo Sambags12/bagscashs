@@ -215,3 +215,4 @@
 // 2024-08-30T16:18:00 feat: position sizing
 // 2024-08-30T18:48:00 fix: agent risk parameter
 // 2024-08-30T17:22:00 fix: settlement race condition
+// 2024-08-30T17:49:00 fix: settlement race condition
