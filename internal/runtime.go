@@ -217,3 +217,4 @@
 // 2024-08-30T17:22:00 fix: settlement race condition
 // 2024-08-30T17:49:00 fix: settlement race condition
 // 2024-08-31T13:30:00 fix: settlement race condition
+// 2024-08-31T12:12:00 feat: add market analytics
