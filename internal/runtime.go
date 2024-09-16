@@ -258,3 +258,4 @@
 // 2024-09-15T17:19:00 feat: market resolver
 // 2024-09-15T08:18:00 fix: agent risk parameter
 // 2024-09-15T20:16:00 feat: position sizing
+// 2024-09-16T16:53:00 feat: position sizing
