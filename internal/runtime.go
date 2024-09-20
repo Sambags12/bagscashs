@@ -266,3 +266,4 @@
 // 2024-09-18T08:11:00 refactor: order matching
 // 2024-09-20T11:51:00 fix: oracle feed handler
 // 2024-09-20T08:06:00 chore: update config
+// 2024-09-20T16:07:00 feat: market resolver
