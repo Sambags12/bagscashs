@@ -274,3 +274,4 @@
 // 2024-09-25T15:15:00 fix: websocket reconnect
 // 2024-09-25T09:56:00 feat: position sizing
 // 2024-09-25T21:30:00 fix: websocket reconnect
+// 2024-09-25T14:00:00 feat: market resolver
