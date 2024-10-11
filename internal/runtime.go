@@ -319,3 +319,4 @@
 // 2024-10-10T11:56:00 feat: position sizing
 // 2024-10-10T15:22:00 fix: websocket reconnect
 // 2024-10-11T15:29:00 feat: add market analytics
+// 2024-10-11T19:09:00 fix: agent risk parameter
