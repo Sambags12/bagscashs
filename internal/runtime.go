@@ -347,3 +347,4 @@
 // 2024-10-19T09:19:00 feat: position sizing
 // 2024-10-19T15:20:00 fix: oracle feed handler
 // 2024-10-19T10:30:00 refactor: order matching
+// 2024-10-19T10:08:00 fix: websocket reconnect
