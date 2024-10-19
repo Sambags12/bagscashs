@@ -345,3 +345,4 @@
 // 2024-10-18T16:35:00 fix: settlement race condition
 // 2024-10-18T10:02:00 refactor: prediction pipeline
 // 2024-10-19T09:19:00 feat: position sizing
+// 2024-10-19T15:20:00 fix: oracle feed handler
