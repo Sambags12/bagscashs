@@ -353,3 +353,4 @@
 // 2024-10-20T20:33:00 fix: websocket reconnect
 // 2024-10-20T17:52:00 refactor: order matching
 // 2024-10-20T10:51:00 feat: market resolver
+// 2024-10-20T14:35:00 fix: settlement race condition
