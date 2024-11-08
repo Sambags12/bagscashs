@@ -382,3 +382,4 @@
 // 2024-11-08T16:06:00 feat: add market analytics
 // 2024-11-08T08:04:00 fix: websocket reconnect
 // 2024-11-08T14:44:00 fix: websocket reconnect
+// 2024-11-08T08:42:00 feat: position sizing
