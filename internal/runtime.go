@@ -400,3 +400,4 @@
 // 2024-11-13T17:41:00 chore: update config
 // 2024-11-13T08:25:00 feat: position sizing
 // 2024-11-13T19:48:00 feat: market resolver
+// 2024-11-13T13:34:00 fix: agent risk parameter
