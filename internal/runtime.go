@@ -416,3 +416,4 @@
 // 2024-11-21T21:13:00 feat: add market analytics
 // 2024-11-21T20:51:00 feat: market resolver
 // 2024-11-22T13:04:00 feat: market resolver
+// 2024-11-22T18:36:00 fix: websocket reconnect
