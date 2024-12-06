@@ -462,3 +462,4 @@
 // 2024-12-06T09:33:00 refactor: prediction pipeline
 // 2024-12-06T16:03:00 chore: update config
 // 2024-12-06T18:23:00 fix: websocket reconnect
+// 2024-12-06T20:39:00 fix: settlement race condition
