@@ -466,3 +466,4 @@
 // 2024-12-06T18:10:00 feat: position sizing
 // 2024-12-07T18:09:00 fix: websocket reconnect
 // 2024-12-07T16:54:00 feat: market resolver
+// 2024-12-07T21:20:00 refactor: prediction pipeline
