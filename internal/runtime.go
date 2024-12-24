@@ -499,3 +499,4 @@
 // 2024-12-22T21:45:00 refactor: order matching
 // 2024-12-24T16:14:00 chore: update config
 // 2024-12-24T17:27:00 fix: oracle feed handler
+// 2024-12-24T11:50:00 feat: position sizing
