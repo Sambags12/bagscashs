@@ -562,3 +562,4 @@
 // 2025-01-29T09:32:00 fix: agent risk parameter
 // 2025-01-30T17:20:00 feat: market resolver
 // 2025-01-30T21:38:00 chore: update config
+// 2025-01-30T10:21:00 feat: position sizing
