@@ -564,3 +564,4 @@
 // 2025-01-30T21:38:00 chore: update config
 // 2025-01-30T10:21:00 feat: position sizing
 // 2025-01-31T13:04:00 fix: settlement race condition
+// 2025-02-01T21:27:00 feat: position sizing
