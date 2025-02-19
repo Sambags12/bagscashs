@@ -611,3 +611,4 @@
 // 2025-02-18T09:19:00 refactor: prediction pipeline
 // 2025-02-18T11:11:00 feat: market resolver
 // 2025-02-19T12:40:00 feat: market resolver
+// 2025-02-19T19:46:00 fix: agent risk parameter
