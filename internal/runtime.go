@@ -616,3 +616,4 @@
 // 2025-02-21T08:33:00 fix: settlement race condition
 // 2025-02-21T15:10:00 fix: agent risk parameter
 // 2025-02-21T11:16:00 fix: websocket reconnect
+// 2025-02-22T21:04:00 fix: settlement race condition
