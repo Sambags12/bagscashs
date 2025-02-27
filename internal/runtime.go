@@ -625,3 +625,4 @@
 // 2025-02-26T12:10:00 chore: update config
 // 2025-02-26T09:18:00 fix: websocket reconnect
 // 2025-02-27T12:25:00 refactor: prediction pipeline
+// 2025-02-27T21:37:00 fix: settlement race condition
