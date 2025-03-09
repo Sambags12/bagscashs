@@ -651,3 +651,4 @@
 // 2025-03-08T10:56:00 fix: websocket reconnect
 // 2025-03-08T14:50:00 feat: add market analytics
 // 2025-03-09T14:53:00 fix: settlement race condition
+// 2025-03-09T18:30:00 refactor: prediction pipeline
