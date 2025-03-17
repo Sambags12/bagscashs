@@ -670,3 +670,4 @@
 // 2025-03-15T13:34:00 fix: agent risk parameter
 // 2025-03-16T18:37:00 fix: websocket reconnect
 // 2025-03-17T19:21:00 chore: update config
+// 2025-03-17T14:26:00 fix: settlement race condition
