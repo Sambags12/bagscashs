@@ -713,3 +713,4 @@
 // 2025-03-28T16:08:00 feat: position sizing
 // 2025-03-29T16:04:00 feat: add market analytics
 // 2025-03-29T10:58:00 fix: agent risk parameter
+// 2025-03-29T15:31:00 feat: market resolver
