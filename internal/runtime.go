@@ -720,3 +720,4 @@
 // 2025-03-31T21:43:00 fix: agent risk parameter
 // 2025-03-31T18:45:00 fix: websocket reconnect
 // 2025-03-31T09:16:00 refactor: order matching
+// 2025-04-01T08:29:00 fix: settlement race condition
