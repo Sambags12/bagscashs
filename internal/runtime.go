@@ -744,3 +744,4 @@
 // 2025-04-11T19:36:00 refactor: order matching
 // 2025-04-11T13:26:00 feat: position sizing
 // 2025-04-11T15:52:00 refactor: prediction pipeline
+// 2025-04-14T18:00:00 chore: update config
