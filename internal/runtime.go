@@ -784,3 +784,4 @@
 // 2025-04-27T16:40:00 feat: position sizing
 // 2025-04-27T20:26:00 refactor: prediction pipeline
 // 2025-04-27T11:32:00 fix: settlement race condition
+// 2025-04-27T12:02:00 fix: oracle feed handler
