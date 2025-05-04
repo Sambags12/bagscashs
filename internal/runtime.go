@@ -801,3 +801,4 @@
 // 2025-05-03T11:43:00 refactor: order matching
 // 2025-05-04T17:10:00 fix: websocket reconnect
 // 2025-05-04T12:21:00 fix: websocket reconnect
+// 2025-05-04T15:15:00 feat: add market analytics
