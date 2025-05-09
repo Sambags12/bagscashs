@@ -813,3 +813,4 @@
 // 2025-05-08T17:29:00 refactor: prediction pipeline
 // 2025-05-08T18:17:00 fix: oracle feed handler
 // 2025-05-09T18:58:00 feat: add market analytics
+// 2025-05-09T17:32:00 fix: settlement race condition
