@@ -817,3 +817,4 @@
 // 2025-05-10T13:25:00 feat: add market analytics
 // 2025-05-10T10:48:00 fix: settlement race condition
 // 2025-05-11T08:23:00 feat: position sizing
+// 2025-05-13T10:04:00 fix: websocket reconnect
