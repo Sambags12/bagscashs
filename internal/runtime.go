@@ -828,3 +828,4 @@
 // 2025-05-20T20:33:00 fix: websocket reconnect
 // 2025-05-20T14:03:00 fix: websocket reconnect
 // 2025-05-21T11:11:00 fix: oracle feed handler
+// 2025-05-21T15:52:00 fix: settlement race condition
