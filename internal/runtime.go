@@ -886,3 +886,4 @@
 // 2025-06-16T12:55:00 refactor: prediction pipeline
 // 2025-06-16T12:22:00 fix: agent risk parameter
 // 2025-06-17T16:52:00 chore: update config
+// 2025-06-18T14:00:00 fix: settlement race condition
