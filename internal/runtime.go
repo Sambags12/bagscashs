@@ -922,3 +922,4 @@
 // 2025-07-01T13:47:00 fix: websocket reconnect
 // 2025-07-01T21:47:00 fix: settlement race condition
 // 2025-07-01T17:10:00 fix: settlement race condition
+// 2025-07-01T10:07:00 feat: add market analytics
