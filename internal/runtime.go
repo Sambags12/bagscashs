@@ -918,3 +918,4 @@
 // 2025-06-30T16:57:00 feat: market resolver
 // 2025-06-30T20:21:00 feat: position sizing
 // 2025-06-30T08:02:00 fix: settlement race condition
+// 2025-07-01T08:15:00 feat: add market analytics
