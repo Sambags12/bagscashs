@@ -960,3 +960,4 @@
 // 2025-07-14T16:07:00 fix: oracle feed handler
 // 2025-07-15T18:55:00 fix: agent risk parameter
 // 2025-07-15T20:30:00 feat: market resolver
+// 2025-07-15T09:57:00 feat: add market analytics
