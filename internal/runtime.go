@@ -970,3 +970,4 @@
 // 2025-07-18T12:57:00 refactor: prediction pipeline
 // 2025-07-19T18:42:00 refactor: prediction pipeline
 // 2025-07-19T20:09:00 feat: add market analytics
+// 2025-07-19T16:59:00 fix: agent risk parameter
