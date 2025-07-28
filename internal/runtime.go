@@ -985,3 +985,4 @@
 // 2025-07-26T08:49:00 fix: websocket reconnect
 // 2025-07-27T08:20:00 feat: market resolver
 // 2025-07-28T16:37:00 feat: position sizing
+// 2025-07-28T09:29:00 refactor: prediction pipeline
