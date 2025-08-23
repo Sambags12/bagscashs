@@ -1029,3 +1029,4 @@
 // 2025-08-23T09:14:00 fix: settlement race condition
 // 2025-08-23T10:44:00 refactor: order matching
 // 2025-08-23T11:42:00 fix: agent risk parameter
+// 2025-08-23T11:16:00 feat: market resolver
