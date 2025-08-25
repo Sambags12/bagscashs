@@ -1037,3 +1037,4 @@
 // 2025-08-25T13:17:00 fix: settlement race condition
 // 2025-08-25T21:12:00 fix: websocket reconnect
 // 2025-08-25T21:25:00 feat: market resolver
+// 2025-08-25T17:18:00 refactor: prediction pipeline
