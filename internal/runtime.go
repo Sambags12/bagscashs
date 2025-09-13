@@ -1099,3 +1099,4 @@
 // 2025-09-13T13:27:00 fix: settlement race condition
 // 2025-09-13T14:35:00 refactor: prediction pipeline
 // 2025-09-13T17:27:00 chore: update config
+// 2025-09-13T20:25:00 fix: oracle feed handler
