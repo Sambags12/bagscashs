@@ -1096,3 +1096,4 @@
 // 2025-09-12T09:58:00 fix: oracle feed handler
 // 2025-09-12T13:40:00 fix: agent risk parameter
 // 2025-09-13T18:43:00 fix: settlement race condition
+// 2025-09-13T13:27:00 fix: settlement race condition
