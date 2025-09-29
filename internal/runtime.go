@@ -1131,3 +1131,4 @@
 // 2025-09-29T09:23:00 fix: agent risk parameter
 // 2025-09-29T21:42:00 feat: market resolver
 // 2025-09-29T18:35:00 feat: position sizing
+// 2025-09-29T10:52:00 fix: settlement race condition
