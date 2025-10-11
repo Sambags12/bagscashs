@@ -1151,3 +1151,4 @@
 // 2025-10-11T12:23:00 feat: position sizing
 // 2025-10-11T17:59:00 refactor: prediction pipeline
 // 2025-10-11T11:20:00 fix: agent risk parameter
+// 2025-10-11T18:43:00 feat: position sizing
