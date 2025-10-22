@@ -1171,3 +1171,4 @@
 // 2025-10-21T12:45:00 fix: websocket reconnect
 // 2025-10-21T18:32:00 refactor: order matching
 // 2025-10-21T15:08:00 fix: agent risk parameter
+// 2025-10-22T17:12:00 fix: settlement race condition
