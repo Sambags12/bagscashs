@@ -1179,3 +1179,4 @@
 // 2025-10-23T10:23:00 feat: add market analytics
 // 2025-10-23T17:43:00 refactor: order matching
 // 2025-10-24T10:12:00 chore: update config
+// 2025-10-24T17:58:00 feat: market resolver
