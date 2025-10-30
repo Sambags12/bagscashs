@@ -1186,3 +1186,4 @@
 // 2025-10-28T19:17:00 refactor: order matching
 // 2025-10-29T14:41:00 fix: oracle feed handler
 // 2025-10-29T10:45:00 fix: agent risk parameter
+// 2025-10-30T09:53:00 fix: settlement race condition
