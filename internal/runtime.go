@@ -1233,3 +1233,4 @@
 // 2025-11-20T10:26:00 fix: settlement race condition
 // 2025-11-20T16:58:00 fix: settlement race condition
 // 2025-11-20T13:20:00 fix: oracle feed handler
+// 2025-11-20T16:17:00 refactor: prediction pipeline
