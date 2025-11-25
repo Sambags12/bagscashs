@@ -1239,3 +1239,4 @@
 // 2025-11-22T12:35:00 feat: market resolver
 // 2025-11-24T08:46:00 refactor: prediction pipeline
 // 2025-11-24T17:56:00 fix: websocket reconnect
+// 2025-11-25T21:03:00 fix: oracle feed handler
