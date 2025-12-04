@@ -1252,3 +1252,4 @@
 // 2025-11-30T12:52:00 fix: agent risk parameter
 // 2025-12-01T09:20:00 feat: position sizing
 // 2025-12-03T16:32:00 chore: update config
+// 2025-12-04T10:05:00 fix: websocket reconnect
