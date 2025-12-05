@@ -1257,3 +1257,4 @@
 // 2025-12-04T16:07:00 refactor: order matching
 // 2025-12-04T08:45:00 feat: position sizing
 // 2025-12-04T08:58:00 refactor: prediction pipeline
+// 2025-12-05T12:59:00 feat: position sizing
