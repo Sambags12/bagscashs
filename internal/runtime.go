@@ -1260,3 +1260,4 @@
 // 2025-12-05T12:59:00 feat: position sizing
 // 2025-12-05T20:24:00 feat: market resolver
 // 2025-12-05T09:45:00 fix: websocket reconnect
+// 2025-12-06T20:11:00 chore: update config
