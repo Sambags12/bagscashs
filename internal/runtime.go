@@ -1266,3 +1266,4 @@
 // 2025-12-06T11:10:00 fix: settlement race condition
 // 2025-12-08T10:23:00 refactor: order matching
 // 2025-12-08T20:11:00 fix: settlement race condition
+// 2025-12-08T14:39:00 fix: websocket reconnect
