@@ -1264,3 +1264,4 @@
 // 2025-12-06T13:37:00 feat: add market analytics
 // 2025-12-06T11:02:00 feat: add market analytics
 // 2025-12-06T11:10:00 fix: settlement race condition
+// 2025-12-08T10:23:00 refactor: order matching
