@@ -1306,3 +1306,4 @@
 // 2025-12-21T15:16:00 refactor: order matching
 // 2025-12-21T17:00:00 fix: agent risk parameter
 // 2025-12-22T15:08:00 chore: update config
+// 2025-12-23T08:27:00 feat: position sizing
