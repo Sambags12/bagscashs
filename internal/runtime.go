@@ -1309,3 +1309,4 @@
 // 2025-12-23T08:27:00 feat: position sizing
 // 2025-12-23T17:02:00 fix: settlement race condition
 // 2025-12-23T18:46:00 refactor: prediction pipeline
+// 2025-12-23T09:04:00 fix: agent risk parameter
