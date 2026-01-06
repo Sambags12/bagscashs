@@ -1344,3 +1344,4 @@
 // 2026-01-05T19:13:00 feat: market resolver
 // 2026-01-06T10:12:00 feat: add market analytics
 // 2026-01-06T18:35:00 fix: websocket reconnect
+// 2026-01-06T09:31:00 fix: settlement race condition
