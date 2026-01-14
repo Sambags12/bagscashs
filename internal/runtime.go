@@ -1365,3 +1365,4 @@
 // 2026-01-14T21:31:00 refactor: order matching
 // 2026-01-14T09:15:00 refactor: prediction pipeline
 // 2026-01-14T17:52:00 fix: websocket reconnect
+// 2026-01-14T16:52:00 feat: market resolver
