@@ -1376,3 +1376,4 @@
 // 2026-01-21T15:46:00 feat: position sizing
 // 2026-01-22T21:26:00 feat: market resolver
 // 2026-01-22T18:32:00 refactor: prediction pipeline
+// 2026-01-23T19:46:00 fix: oracle feed handler
