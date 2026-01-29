@@ -1387,3 +1387,4 @@
 // 2026-01-27T13:52:00 fix: oracle feed handler
 // 2026-01-28T16:26:00 chore: update config
 // 2026-01-28T17:00:00 chore: update config
+// 2026-01-29T11:11:00 fix: settlement race condition
