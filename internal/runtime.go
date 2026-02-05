@@ -1404,3 +1404,4 @@
 // 2026-02-04T13:06:00 fix: websocket reconnect
 // 2026-02-04T08:09:00 refactor: order matching
 // 2026-02-04T16:53:00 chore: update config
+// 2026-02-05T20:38:00 fix: agent risk parameter
