@@ -1408,3 +1408,4 @@
 // 2026-02-05T10:39:00 fix: agent risk parameter
 // 2026-02-05T14:48:00 fix: settlement race condition
 // 2026-02-05T12:30:00 chore: update config
+// 2026-02-05T09:46:00 feat: market resolver
