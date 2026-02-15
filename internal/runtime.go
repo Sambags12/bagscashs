@@ -1431,3 +1431,4 @@
 // 2026-02-14T10:06:00 feat: market resolver
 // 2026-02-15T14:42:00 feat: add market analytics
 // 2026-02-15T16:33:00 refactor: prediction pipeline
+// 2026-02-15T20:35:00 fix: settlement race condition
