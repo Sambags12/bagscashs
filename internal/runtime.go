@@ -1435,3 +1435,4 @@
 // 2026-02-16T16:22:00 fix: agent risk parameter
 // 2026-02-16T19:16:00 fix: websocket reconnect
 // 2026-02-16T15:54:00 refactor: order matching
+// 2026-02-17T19:17:00 feat: position sizing
