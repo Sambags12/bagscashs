@@ -21,7 +21,8 @@
   <a href="https://docs.tryokbet.com/introduction"><img src="https://img.shields.io/badge/Docs-tryokbet.com-4A154B?style=flat-square" alt="Docs" /></a>
   <a href="https://github.com/ok-bet"><img src="https://img.shields.io/badge/GitHub-ok--bet-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/0xExoMonk"><img src="https://img.shields.io/badge/Founder-@0xExoMonk-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Founder" /></a>
-  <a href="https://bags.fm/"><img src="https://img.shields.io/badge/Bags.fm-Verified-F5C842?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white" alt="Bags Verified" /></a>
+  <a href="https://bags.fm/"><img src="https://img.shields.io/badge/Bags.fm-Verified-F5C842?style=flat-square" alt="Bags Verified" /></a>
+  <a href="https://polymarket.com/"><img src="https://img.shields.io/badge/Polymarket-Integrated-0052FF?style=flat-square" alt="Polymarket" /></a>
 </p>
 
 <p align="center">
@@ -35,7 +36,7 @@
 
 <p align="center">
   <a href="https://bags.fm/hackathon">
-    <img src="https://img.shields.io/badge/Bags%20Hackathon-Accepted-F5C842?style=for-the-badge" alt="Bags Hackathon" />
+    <img src="https://img.shields.io/badge/Bags%20Hackathon-Applying-F5C842?style=for-the-badge" alt="Bags Hackathon" />
   </a>
   &nbsp;&nbsp;
   <a href="https://bags.fm/">
@@ -43,7 +44,7 @@
   </a>
 </p>
 
-OKBet was selected for **[The Bags Hackathon](https://bags.fm/hackathon)** -- a $4M builder program by [@bagsapp](https://twitter.com/bagsapp) funding teams that ship real products with measurable onchain traction.
+OKBet is applying for **[The Bags Hackathon](https://bags.fm/hackathon)** -- a $4M builder program by [@bagsapp](https://twitter.com/bagsapp) funding teams that ship real products with measurable onchain traction.
 
 We chose Bags because the thesis aligns: prediction markets are only as good as the infrastructure settling them. Bags provides the token distribution layer, Bags Fund provides post-launch capital, and the hackathon gives early-stage projects like OKBet direct access to a builder network that evaluates on performance -- not pitch decks.
 
