@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="![image alt](https://github.com/Sambags12/bagscashs/blob/0c64f6da905d9eb519dbc572b5e5c0e8be515a27/458df2ff-0a92-4f22-a130-0c664ee117f3.png)" alt="BagsCashs" width="140%" />
+  ![image alt](https://github.com/Sambags12/bagscashs/blob/0c64f6da905d9eb519dbc572b5e5c0e8be515a27/458df2ff-0a92-4f22-a130-0c664ee117f3.png)" 
+  
+  < alt="BagsCashs" width="140%" />
 </p>
 
 <h1 align="center">BagsCashs</h1>
