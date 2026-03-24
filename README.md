@@ -26,7 +26,6 @@
 
 
 
-**[bags.fm/hackathon](SOON)**
 
 
 
