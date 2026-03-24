@@ -25,8 +25,9 @@
 ---
 
 
-
-**[bags.fm/hackathon](SOON)**
+<p align="center">
+  <code>Bagscashs Wallet: B3uaKpFmCUXwNR8RUeCYhChDnTSsTtyZe6vEBD7KAzz8</code>
+</p>
 
 
 
