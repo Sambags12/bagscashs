@@ -41,6 +41,10 @@
   </a>
 </p>
 
+# Joining the Hackathon :)
+
+Good Luck
+
 ---
 
 <p align="center">
