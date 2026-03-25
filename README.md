@@ -31,6 +31,15 @@
 </p>
 
 
+<p align="center">
+  <code>Contract Address: Hy8fcxNokbKykN8sHFw8z1Wo3dnVsT7iqMJKXrpVBAGS</code>
+</p>
+
+<p align="center">
+  <a href="https://bags.fm/Hy8fcxNokbKykN8sHFw8z1Wo3dnVsT7iqMJKXrpVBAGS">
+    <img src="https://img.shields.io/badge/%24BAGSY-Live%20on%20Bags-000000?style=for-the-badge" alt="$BAGSCashs on Bags" />
+  </a>
+</p>
 
 ---
 
