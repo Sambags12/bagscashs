@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <code>Contract Address: Hy8fcxNokbKykN8sHFw8z1Wo3dnVsT7iqMJKXrpVBAGS</code>
+  <code>Contract Address: 5zNLHY9LBb7fcpM3KmyhvYEXBkA4CFvUmS6q2MdbBAGS</code>
 </p>
 
 <p align="center">
